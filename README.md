@@ -1,3 +1,3 @@
 # QuantizationInDeepLearning
 
-This project work is still in experimental phase.
+The Complete implementation of this project can be found at .
